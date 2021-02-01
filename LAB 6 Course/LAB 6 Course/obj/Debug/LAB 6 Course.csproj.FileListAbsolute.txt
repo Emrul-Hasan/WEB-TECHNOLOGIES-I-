@@ -1,0 +1,7 @@
+D:\AIUB\6th Semester\OOP2\LAB 6 Course\LAB 6 Course\bin\Debug\LAB 6 Course.exe.config
+D:\AIUB\6th Semester\OOP2\LAB 6 Course\LAB 6 Course\bin\Debug\LAB 6 Course.exe
+D:\AIUB\6th Semester\OOP2\LAB 6 Course\LAB 6 Course\bin\Debug\LAB 6 Course.pdb
+D:\AIUB\6th Semester\OOP2\LAB 6 Course\LAB 6 Course\obj\Debug\LAB 6 Course.csprojAssemblyReference.cache
+D:\AIUB\6th Semester\OOP2\LAB 6 Course\LAB 6 Course\obj\Debug\LAB 6 Course.csproj.CoreCompileInputs.cache
+D:\AIUB\6th Semester\OOP2\LAB 6 Course\LAB 6 Course\obj\Debug\LAB 6 Course.exe
+D:\AIUB\6th Semester\OOP2\LAB 6 Course\LAB 6 Course\obj\Debug\LAB 6 Course.pdb
